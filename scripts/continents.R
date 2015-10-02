@@ -1,4 +1,4 @@
-
+# ANDREW  EDITED THIS AND ITS 100% CORRECT!!!!!!!!
 #!/usr/bin/env Rscript
 # R Plotting continents
 

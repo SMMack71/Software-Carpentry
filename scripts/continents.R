@@ -36,4 +36,5 @@ make_pngplot <- function(name){
 arg <- commandArgs(TRUE)
 try(make_pngplot(arg[1]))
 
-# This comment was added by Stian
+# This comment was added by Stian "The Great"
+# This comment eas added but you will need to look at the log to find out by whom ;)

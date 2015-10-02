@@ -1,0 +1,4 @@
+# This file has no use
+# it is a reference to a reference without reference
+
+v1.0

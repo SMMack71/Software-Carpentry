@@ -35,3 +35,5 @@ make_pngplot <- function(name){
 #how to retrive input from user
 arg <- commandArgs(TRUE)
 try(make_pngplot(arg[1]))
+
+# This comment was added by Stian

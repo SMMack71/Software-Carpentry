@@ -15,6 +15,8 @@ load("data/gapminder.RData")
 
 #creat a function to plot dots per contenent
 #receives a data frame input and makes a plot
+# more comments :)
+
 
 draw_dots_continent <- function(df){
   

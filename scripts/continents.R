@@ -5,6 +5,9 @@
 #check that ggplot2 packages are installed if not
 #install.packages(ggplot2)
 
+
+# comments added to demonstrate git version control
+
 library(ggplot2)
 
 #assume you have the gapminder.RData 
